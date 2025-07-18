@@ -28,3 +28,11 @@
     transform: scale(1.05);
     transition: 0.6s;
 }
+
+.item button{
+    background: #ff4141;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
